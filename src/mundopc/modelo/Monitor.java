@@ -21,7 +21,7 @@ public class Monitor {
         return "Monitor{" +
                 "idMonitor=" + idMonitor +
                 ", marca='" + marca + '\'' +
-                ", tamanio=" + tamanio +
+                ", tamanio=" + tamanio + " pulgadas" +
                 '}';
     }
 }
